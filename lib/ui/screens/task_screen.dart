@@ -150,7 +150,7 @@ class _TaskScreenState extends State<TaskScreen> {
                                             context, Routes.completedTaskViewRoute);
                                       },
                                       style: ElevatedButton.styleFrom(
-                                          primary: Colors.brown,
+                                          primary: Colors.blue,
                                           padding: EdgeInsets.symmetric(
                                               horizontal: 10, vertical: 10),
                                           textStyle: TextStyle(

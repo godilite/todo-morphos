@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       title: 'Demo App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.brown,
+        primarySwatch: Colors.blue
       ),
        initialRoute: Routes.homeViewRoute,
       onGenerateRoute: generateRoute,
